@@ -63,4 +63,5 @@ INSERT INTO employee (lastname,age,salary) VALUES ('nagula',27,50000);
 
 select * from employee;
 
-
+#coun of employee
+select count(*) from employee;
